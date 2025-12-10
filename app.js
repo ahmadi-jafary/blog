@@ -1,1 +1,4 @@
-// this is the new js file 
+var ahmadi = 12
+var age = ahmadi
+
+console.log(age);
